@@ -1,0 +1,9 @@
+.topic-list-item {
+    cursor: pointer;
+}
+.topic-name {
+    font-weight: bold;
+}
+.topic-description {
+    color: #000 !important;
+}
